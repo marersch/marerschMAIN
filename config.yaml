@@ -35,7 +35,7 @@ params:
         h: '522'
         image: images/MusE.png
         title: Creative Writing
-        url: 'https://muse.erschbamer.net/''
+        url: 'https://muse.erschbamer.net/'
         w: '780'
       - description: Himalayan, Tibetan, and Buddhist Studies
         h: '518'
