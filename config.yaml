@@ -1,0 +1,51 @@
+baseurl: /
+languageCode: de-de
+title: Marlene Erschbamer
+copyright: © Marlene Erschbamer
+disableKinds:
+  - taxonomy
+  - taxonomyTerm
+theme: hugo-theme-doors
+disableRSS: yes
+disableSitemap: yes
+disable404: yes
+params:
+  contact:
+    description:
+    email: 'marlene@erschbamer.net'
+    facebook: ''
+    github: ''
+    instagram: 'https://www.instagram.com/erinnermich_blog/'
+    linkedin: 'https://www.linkedin.com/in/marlene-erschbamer-786aa3145/'
+    twitter: ''
+  description: ''
+  googleTagManager: GTM-xxxxxxxx
+  ogimage: images/work1.jpg
+  projects:
+    list:
+      - description: Marlene Erschbamer
+        h: '240'
+        image: images/buch.jpg
+        title: Tätigkeitsfelder
+        url: '#'
+        w: '780'
+  subprojects:
+    list:
+      - description: Kreatives Schreiben, Workshops, Korrekturlesen
+        h: '522'
+        image: images/MusE.png
+        title: Creative Writing
+        url: 'https://muse.erschbamer.net/''
+        w: '780'
+      - description: Himalayan, Tibetan, and Buddhist Studies
+        h: '518'
+        image: images/Sikkim.jpg
+        title: Independent Scholar
+        url: 'https://scholar.erschbamer.net/'
+        w: '780'
+      - description: Frauen schreiben Geschichte
+        h: '522'
+        image: images/blog.png
+        title: Erinnermich - Blog
+        url: 'https://erinnermich.eu/'
+        w: '780'
