@@ -25,7 +25,7 @@ params:
     list:
       - description: Marlene Erschbamer
         h: '240'
-        image: images/buch.jpg
+        image: images/nepal.jpg
         title: Tätigkeitsfelder
         url: '#'
         w: '780'
@@ -43,9 +43,15 @@ params:
         title: Independent Scholar
         url: 'https://scholar.erschbamer.net/'
         w: '780'
-      - description: Frauen schreiben Geschichte
+      - description: Frauen.schreiben.Geschichte
         h: '522'
         image: images/blog.png
         title: Erinnermich - Blog
         url: 'https://erinnermich.eu/'
+        w: '780'
+      - description: Autorin
+        h: '532'
+        image: images/buch_logo.jpg
+        title: Fiona Novale
+        url: 'https://fiona-novale.erinnermich.eu/'
         w: '780'
