@@ -18,12 +18,12 @@ params:
     instagram: 'https://www.instagram.com/erinnermich_blog/'
     linkedin: 'https://www.linkedin.com/in/marlene-erschbamer-786aa3145/'
     twitter: ''
-  description: 'Marlene Erschbamer ist Autorin Fiona Novale Roman Zeitwunden. Tibetologin Philosophin. Workshops für Schulklassen. Blog Erinnermich Frauen schreiben Geschichte.'
+  description: 'Marlene Erschbamer ist Tibetologin, Philosophin und Autorin. Unter dem Pseudonym Fiona Novale veröffentlichte sie den Roman Zeitwunden. Ihre Expertise fließt auch in pädagogische Projekte ein, darunter maßgeschneiderte Workshops für Schulklassen. Auf ihrem Blog Erinnermich – Frauen.schreiben.Geschichte teilt sie inspirierende Beiträge. Eine Welt, in der Wissen und Kreativität aufeinandertreffen.'
   googleTagManager: GTM-xxxxxxxx
   ogimage: images/work1.jpg
   projects:
     list:
-      - description: Marlene Erschbamer
+      - description: Marlene Erschbamer alias Fiona Novale
         h: '240'
         image: images/nepal.jpg
         title: Tätigkeitsfelder
@@ -49,7 +49,7 @@ params:
         title: Erinnermich - Blog
         url: 'https://erinnermich.eu/'
         w: '780'
-      - description: Autorin
+      - description: Autorin - Roman Zeitwunden
         h: '532'
         image: images/buch_logo.jpg
         title: Fiona Novale
