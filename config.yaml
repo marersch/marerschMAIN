@@ -13,12 +13,12 @@ params:
   contact:
     description:
     email: 'marlene@erschbamer.net'
-    facebook: ''
+    facebook: 'https://www.facebook.com/profile.php?id=61577383696807'
     github: ''
     instagram: 'https://www.instagram.com/erinnermich_blog/'
     linkedin: 'https://www.linkedin.com/in/marlene-erschbamer-786aa3145/'
     twitter: ''
-  description: 'Marlene Erschbamer ist Tibetologin, Philosophin und Autorin. Unter dem Pseudonym Fiona Novale veröffentlichte sie den Roman Zeitwunden. Ihre Expertise fließt auch in pädagogische Projekte ein, darunter maßgeschneiderte Workshops für Schulklassen. Auf ihrem Blog Erinnermich – Frauen.schreiben.Geschichte teilt sie inspirierende Beiträge. Eine Welt, in der Wissen und Kreativität aufeinandertreffen.'
+  description: ''
   googleTagManager: GTM-xxxxxxxx
   ogimage: images/work1.jpg
   projects:
@@ -31,27 +31,28 @@ params:
         w: '780'
   subprojects:
     list:
-      - description: Kreatives Schreiben, Workshops, Korrekturlesen
+      - description: 'Wo wissenschaftliche Tiefe auf kreative Inspiration trifft – maßgeschneiderte Texte, Workshops und Korrektorat für Ihre Projekte.'
         h: '522'
-        image: images/MusE.png
-        title: Creative Writing
+        image: images/MusE.jpg
+        title: MusE - Marlene Erschbamer
         url: 'https://muse.erschbamer.net/'
         w: '780'
-      - description: Himalayan, Tibetan, and Buddhist Studies
-        h: '518'
-        image: images/Sikkim.jpg
-        title: Independent Scholar
-        url: 'https://scholar.erschbamer.net/'
-        w: '780'
-      - description: Frauen.schreiben.Geschichte
-        h: '522'
-        image: images/blog.png
-        title: Erinnermich - Blog
-        url: 'https://erinnermich.eu/'
-        w: '780'
-      - description: Autorin - Roman Zeitwunden
+      - description: 'Gedichte - Kurzeschichten - Romane. Aktuelles Werk: Der Gesellschaftsroman Zeitwunden (2025) über generationsübergreifende Traumata und Gewalt an Frauen.'
         h: '532'
-        image: images/buch_logo.jpg
-        title: Fiona Novale
+        image: images/fiona.jpg
+        title: Fiona Novale - Autorin
         url: 'https://fiona-novale.erinnermich.eu/'
         w: '780'
+      - description: 'Ein Blog über Herstory, um Frauen und ihren Leistungen sichtbar zu machen.'
+        h: '522'
+        image: images/blog.png
+        title: Erinnermich - Frauen.schreiben.Geschichte.
+        url: 'https://erinnermich.eu/'
+        w: '780'
+      - description: 'Marlene Erschbamer is a scholar in Tibetan Studies whose research centers on the intersections of lineage (Barawa Kagyu), gender, and regional history (Sikkim) in the Himalayas.'
+        h: '518'
+        image: images/studies.jpg
+        title: Himalayan, Tibetan, and Buddhist Studies
+        url: 'https://scholar.erschbamer.net/'
+        w: '780'
+
